@@ -1,7 +1,7 @@
 # C_Problems
 
-// Author : Karthik Bhaskaran
-// Purpose : Attempt to improve my problem solving skills
+--> Author : Karthik Bhaskaran
+--> Purpose : Attempt to improve my problem solving skills
 
 --> Solving problems from:
 1. HackerEarth
